@@ -10,3 +10,5 @@ and also how to load those files
 computing pca for window 80 - compilation of a dataset for window size 80. It also contains the code for PCA on that dataset and saving the results. A similar process was carried out for all other window sizes.
 
 pca window 5 - additonal PCA code
+
+distribution_plots.ipynb - code for generating polarization vector probability distribution plots
